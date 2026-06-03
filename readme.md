@@ -1,3 +1,5 @@
+# Welcome to the 1st project attempted by me on SAP BAS(Business Application Studio)
+
 # 📚 SAP CAP Bookshop Backend API
 
 An enterprise-ready backend microservice built using the **SAP Cloud Application Programming Model (CAP)** and Node.js. 
